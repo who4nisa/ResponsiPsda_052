@@ -14,6 +14,7 @@ struct InfoPenyakit{
 };
 
 int main(){
+    using namespace std;
     vector<InfoPenyakit>penyakit;
 
     while(true){
